@@ -7,7 +7,7 @@
 
 This project focuses on developing a **Library Management System** using SQL. It covers creating and managing tables, performing CRUD (Create, Read, Update, Delete) operations, and executing advanced queries. The objective is to demonstrate skills in **database design, data management, and SQL querying** in a structured and efficient manner.
 
-![Library_project]()
+![Library_project](LIBRARY.png)
 
 ## Objectives  
 
