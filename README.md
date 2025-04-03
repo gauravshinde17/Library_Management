@@ -19,7 +19,7 @@ This project focuses on developing a **Library Management System** using SQL. It
 ## Project Structure
 
 ### 1. Database Setup
-![ERD](https://github.com/najirh/Library-System-Management---P2/blob/main/library_erd.png)
+![ERD](LIBRARY_MANAGEMENT_SCHEMA.png)
 
 
 **Task 1. Create a New Book Record**
