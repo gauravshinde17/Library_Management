@@ -34,7 +34,7 @@ The system includes the following core tables:
 
 ---
 ## 🧩 Schema
-![Music Store Schema](Music_Store_Schema.png)
+![Music Store Schema](LIBRARY_MANAGEMENT_SCHEMA.png)
 
 ---
 
@@ -53,7 +53,7 @@ Here are some advanced queries included in the project:
 9. **Book Demand vs Availability**
 10. **Branch-wise Issue Comparison**
 
-👉 Full list of **20+ analytical queries** available in ``.
+👉 Full list of **20+ analytical queries** available in `LIBRARY_MANAGEMENT_CODE.sql`.
 
 ---
 ## 📌 Key Insights
