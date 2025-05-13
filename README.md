@@ -53,7 +53,7 @@ Here are some advanced queries included in the project:
 9. **Book Demand vs Availability**
 10. **Branch-wise Issue Comparison**
 
-👉 Full list of **20+ analytical queries** available in `LIBRARY_MANAGEMENT_CODE.sql`.
+👉 Full list of **20+ analytical queries** available in [LIBRARY_MANAGEMENT_CODE.sql](LIBRARY_MANAGEMENT_CODE.sql)
 
 ---
 ## 📌 Key Insights
